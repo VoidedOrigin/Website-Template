@@ -1,10 +1,8 @@
-# Guns.LOL Website-Template
+# file.lol Website-Template
 
-Create your own cool Guns.LOL for free!
+Create your own cool file.lol for free!
 with this template
-change Info.png and index.html for stuff
+change Info.png for ur own profile.
 and upload it to vercel for a free website host.
 
-how to change stuff: once downloaded right click index.html and click edit with notepad then u can type stuff.
-
-where to change stuff in the code: 
+go to https://www.canva.com/ and make a Info.png image or anything else youd like.
