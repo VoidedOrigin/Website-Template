@@ -6,3 +6,5 @@ change Info.png for ur own profile.
 and upload it to vercel for a free website host.
 
 go to https://www.canva.com/ and make a Info.png image or anything else youd like.
+
+to change the audio edit the html file by right clicking then edit with notepad then goto line 98 and change the url to ur sound.
