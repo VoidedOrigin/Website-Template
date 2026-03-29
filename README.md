@@ -1,4 +1,4 @@
-# Website-Template
+# Guns.LOL Website-Template
 
 Create your own cool Guns.LOL for free!
 with this template
